@@ -229,7 +229,7 @@ public class Bank
     //TODO
     // imoti, loan time past, create loans,
     // transfer salaries, bills pay,
-    // permission to change phone, pin
+    // permission to change phone, pin, kura mi qnko
     
     
 }
