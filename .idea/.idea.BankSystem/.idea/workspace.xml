@@ -31,7 +31,7 @@
   "keyToString": {
     ".NET Project.BankSystem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +76,7 @@
       <workItem from="1729953148936" duration="1753000" />
       <workItem from="1731327542761" duration="897000" />
       <workItem from="1732532079259" duration="75000" />
-      <workItem from="1732532177808" duration="326000" />
+      <workItem from="1732532177808" duration="712000" />
     </task>
     <servers />
   </component>
